@@ -4,7 +4,7 @@
 
 ## Syllabus:
 
-[Syllabus](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2025_1/70728/materials/2110403_DSDE_CEDT_Syllabus_2025s1-1105661-17538477166219.pdf)
+[Syllabus](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2025_1/70728/materials/2110403_DSDE_CEDT_Syllabus_2025s1_v3-1832-17598152586199.pdf)
 
 ### Week01-02: Intro to Numpy, Pandas
 

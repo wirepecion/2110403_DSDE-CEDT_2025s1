@@ -18,7 +18,7 @@
 
 4. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class01_Intro_Pandas/4_Advanced_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
 
-### Week02-03: Data Preparation
+### Class02-03: Data Preparation
 
 1. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class02_DataPrep/Lab2_ImputeMissingValue_Pipeline.ipynb)
 

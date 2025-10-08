@@ -6,7 +6,7 @@
 
 [Syllabus](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2025_1/70728/materials/2110403_DSDE_CEDT_Syllabus_2025s1_v3-1832-17598152586199.pdf)
 
-### Week01-02: Intro to Numpy, Pandas
+### Class01: Intro to Numpy, Pandas
 
 0. Python class: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class01_Intro_Pandas/0_Class.ipynb)
 
@@ -18,4 +18,6 @@
 
 4. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class01_Intro_Pandas/4_Advanced_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
 
+<!-- 
 Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class01_Intro_Pandas/5_PandasAssignment.ipynb)
+--!>
